@@ -265,9 +265,9 @@
    },
   
   "background": {
-      "blur": 0.5,
-      "url": "https://github.com/VodkaXMartini/images/blob/main/Ataraxia.jpg?raw=true",
-      "alpha": 0.7
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/herovn2002/AMOLED-custom-BG_theme/refs/heads/main/HMdYn6WasAAEwe8%7E2.jpg",
+      "alpha": 0.4
       },
       "plus":{
      "version":"0",
