@@ -265,7 +265,7 @@
    },
   
   "background": {
-      "blur": 0.1,
+      "blur": 0,
       "url": "https://raw.githubusercontent.com/herovn2002/AMOLED-custom-BG_theme/refs/heads/main/Helentine_HMdYn6WasAAEwe8.jpg",
       "alpha": 0.7
       },
